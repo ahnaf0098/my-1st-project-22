@@ -1,0 +1,160 @@
+nav{
+
+    display: flex;
+    justify-content: space-between;
+}
+nav img{
+
+    width: 20px;
+    height: 35px;
+    margin-left: 35px;
+    margin-top: 15px;
+}
+.hero3{
+    display: block;
+    font-size: 15px;
+    
+}
+.hero2{
+margin-left: -490px;
+
+    font-size: 15px;
+    font-weight: 700;
+
+}
+.hero4{
+
+    display: flex;
+    list-style: none;
+    
+}
+
+
+.hero4 a{
+    text-decoration: none;
+    color: grey;
+    
+        font-size: 13px;
+        
+    
+
+}
+
+
+
+.hero1{
+
+    background-color: #e8ba2e;
+    border: 1px solid ;
+    margin-right: 25px;
+    border-radius: 10px;
+    height: 40px;
+    width: 140px;
+    padding: auto;
+    margin-top: 15px;
+    border-style: none;
+    font-weight: 900;
+    font-size: 11px;
+}
+.hero9{
+    margin-left: -470px;
+    margin-top: 7px
+}
+.hero10{
+    margin-top: 7px;
+    margin-left: 30px;
+}
+.hero11{
+    margin-top: 7px;
+    margin-left: 30px;
+}
+.hero12{
+    margin-top: 7px;
+    margin-left: 30px;
+
+}
+.hero13{
+
+    margin-top: 7px;
+    margin-left: 30px;
+}
+.hero99{
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    width: 1350px;
+    height: 70px;
+}
+.football{
+    background-image: url(./Background.png);
+    height: 740px;
+    width: 1310px;
+    margin-top: -8px;
+    margin-left: 20px;
+    margin-right: 200px;
+    border: 1px solid white;
+    border-radius: 10px;
+
+}
+.football1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.football2{
+    color: white;
+    margin-top: 280px;
+    margin-left: 30px;
+    font-size: 80px;
+    font-weight: 600;
+
+}
+.football3{
+
+    color: white;
+    margin-left: 30px;
+    margin-top: -90px;
+    font-size: 80px;
+    font-weight: 600;
+}
+.football4{
+
+    color: white;
+    margin-left: 30px;
+    margin-top: -80px;
+    font-size: 80px;
+    font-weight: 600;
+}
+.football5{
+    color: white;
+    margin-left: 30px;
+    margin-top: -70px;
+    font-size: 13px;
+}
+.football6{
+    color: white;
+    margin-left: 30px;
+    margin-top: -10px;
+    font-size: 13px;
+    font-weight: 400;
+}
+.football7{
+
+    color: white;
+    margin-left: 30px;
+    margin-top: -7px;
+    font-size: 13px;
+}
+.football8{
+    margin-left: 30px;
+    height: 40px;
+    border: 1px solid black;
+    margin-top: 30px;
+    border-radius: 10px;
+    width: 150px;
+    font-size: 12px;
+    background-color: #F4C430;
+}
+.football8 span{
+    margin-left: 10px;
+}
