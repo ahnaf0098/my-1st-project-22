@@ -447,7 +447,7 @@ table{
     border-collapse: collapse;
     border: 1px solid black;
     height: 400px;
-    width: 1100px;
+    width: 1280px;
     margin-top: 30px;
 }
 .kal5{
@@ -598,7 +598,17 @@ table{
 
 }
 .uol{
+
+}
+#table-wrapper{
+    overflow-x: auto;
     width: 100%;
+}
+*{
+    box-sizing: border-box;
+}
+.body1{
+    overflow-x: hidden;
 }
 
     
