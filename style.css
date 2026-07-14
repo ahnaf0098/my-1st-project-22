@@ -449,6 +449,7 @@ table{
     height: 400px;
     width: 1280px;
     margin-top: 30px;
+    
 }
 .kal5{
     background-color:#A73131;
@@ -513,102 +514,17 @@ table{
 
     color: #e8ba2e;
 }
-.journey{
 
-    width:1310px;
-    margin:90px auto;
-    background:#FFF7E8;
-    border-radius:12px;
-    padding:60px 0;
-    text-align:center;
-
-}
-
-.journey h2{
-
-    font-size:40px;
-    color:#A73131;
-
-}
-
-.journey1{
-
-    color:#666;
-    margin-top:-15px;
-
-}
-
-.journey2{
-
-    display:flex;
-    justify-content:space-evenly;
-    margin-top:50px;
-
-}
-
-.journey3{
-
-    width:220px;
-    background:white;
-    padding:35px 20px;
-    border-radius:12px;
-    box-shadow:0 6px 18px rgba(0,0,0,.08);
-
-}
-
-.journey3:hover{
-
-    transform:translateY(-8px);
-    transition:.3s;
-
-}
-
-.journey3 h3{
-
-    font-size:50px;
-    color:#A73131;
-    margin-bottom:10px;
-
-}
-
-.journey3 p{
-
-    color:#555;
-    font-size:18px;
-
-}
-
-.journey4{
-
-    margin-top:50px;
-    width:220px;
-    height:45px;
-    border:none;
-    border-radius:8px;
-    background:#E8BA2E;
-    font-weight:bold;
-    cursor:pointer;
-
-}
-
-.journey4:hover{
-
-    transform:scale(1.08);
-    transition:.3s;
-
-}
 .uol{
 
 }
 #table-wrapper{
     overflow-x: auto;
-    width: 100%;
-}
-*{
-    box-sizing: border-box;
-}
+    width: 100%;}
+
 .body1{
     overflow-x: hidden;
 }
+
 
     
